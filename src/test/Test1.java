@@ -6,6 +6,7 @@ public class Test1 {
 		System.out.println("프로그램 끝");
 		System.out.println("집에서 작업함");
 		System.out.println("진짜로 집에서 작업함");
+		System.out.println("진짜로 집에서 작업함 2");
 		
 	}
 }
